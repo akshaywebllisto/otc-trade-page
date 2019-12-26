@@ -39,6 +39,7 @@ body {
 	font-family: "Nunito Sans", Sans-serif !important;
 }
 
+div.tipsWrapper div,
 div.priceWrapper div,
 div.tradeInfoWrapper div,
 a.commonStyle {
