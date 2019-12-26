@@ -45,7 +45,9 @@ div.tradeInfoWrapper div,
 a.commonStyle {
 	font-family: "Nunito Sans", Sans-serif !important;
 }
- 
+
+
+.footer .wrapper .title, 
 h1,h2,h3,h4,h5,h6 {
 	font-family: 'Bebas Neue' !important;
 	letter-spacing: 1px !important;
