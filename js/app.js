@@ -1134,16 +1134,6 @@
                                 onClick: function() {
                                     o("giftcard_click")
                                 }
-                            }, t("giftcardsMarket")))), w.a.createElement(D.a.Item, null, w.a.createElement(z.a, {
-                                href: "/ad/new",
-                                as: "/new-ad"
-                            }, w.a.createElement("a", {
-                                className: "menuItem",
-                                onClick: function() {
-                                    o("ad_publish_click"), sa.track("ad_publish_from", {
-                                        element_id: "head_ad_publish"
-                                    })
-                                }
                             }, w.a.createElement("div", null, t("pushAdvertisement"), a && w.a.createElement("div", {
                                 className: "star"
                             }))))))
@@ -1845,10 +1835,6 @@
                                     label: n("otcTrading"),
                                     href: "/otc-ad-list?tradeType=buy&crypto_currency=bitcoin",
                                     hrefAs: "/buy-bitcoin"
-                                }, {
-                                    label: n("giftcardsMarket"),
-                                    href: "/giftcard-list?tradeType=buy&giftcard=gift-cards",
-                                    hrefAs: "/buy-bitcoin/gift-cards"
                                 }, {
                                     label: n("pushAdvertisement"),
                                     href: "/ad/new",
